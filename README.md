@@ -3,7 +3,7 @@
 ## Setup
 
 Убедитесь что зависимости установлены:
-/
+
 Make sure to install the dependencies:
 
 ```bash
@@ -23,7 +23,7 @@ bun install
 ## Development Server
 
 Запустить локальный сервер на `http://localhost:3000`:
-/
+
 Start the development server on `http://localhost:3000`:
 
 ```bash
