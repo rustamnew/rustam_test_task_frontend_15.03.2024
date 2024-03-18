@@ -1,9 +1,9 @@
 # Nuxt 3 Minimal Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
 ## Setup
 
+Убедитесь что зависимости установлены:
+/
 Make sure to install the dependencies:
 
 ```bash
@@ -22,6 +22,8 @@ bun install
 
 ## Development Server
 
+Запустить локальный сервер на `http://localhost:3000`:
+/
 Start the development server on `http://localhost:3000`:
 
 ```bash
