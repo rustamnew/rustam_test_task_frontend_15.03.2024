@@ -6,11 +6,11 @@ export default defineEventHandler(() => {
             tags: [
                 {
                     title: 'Документы проверены',
-                    icon_src: 'icons/verified.svg',
+                    icon_src: '/icons/verified.svg',
                 },
                 {
                     title: '4.7',
-                    icon_src: 'icons/star.svg',
+                    icon_src: '/icons/star.svg',
                     link: '#',
                 },
                 {
@@ -19,7 +19,7 @@ export default defineEventHandler(() => {
                 },
             ],
             description: 'Помог справиться с потерей и организовать похороны для 126 семей ну и еще чуть описания, чтобы дойти до конца строки и текст будет отсекаться',
-            image_src: 'images/9.png',
+            image_src: '/images/9.png',
         },
         {
             id: 302,
@@ -27,14 +27,14 @@ export default defineEventHandler(() => {
             tags: [
                 {
                     title: 'Документы проверены',
-                    icon_src: 'icons/verified.svg',
+                    icon_src: '/icons/verified.svg',
                 },
                 {
                     title: 'Нет отзывов',
                 },
             ],
             description: 'Помог справиться с потерей и организовать похороны для 126 семей.',
-            image_src: 'images/10.png',
+            image_src: '/images/10.png',
         },
         {
             id: 303,
@@ -42,7 +42,7 @@ export default defineEventHandler(() => {
             tags: [
                 {
                     title: '4.3',
-                    icon_src: 'icons/star.svg',
+                    icon_src: '/icons/star.svg',
                     link: '#',
                 },
                 {
@@ -51,7 +51,7 @@ export default defineEventHandler(() => {
                 },
             ],
             description: 'Помог справиться с потерей и организовать похороны для 126 семей ну и еще чуть описания, чтобы дойти до конца строки и текст будет отсекаться',
-            image_src: 'images/11.png',
+            image_src: '/images/11.png',
         },
         {
             id: 304,
@@ -59,11 +59,11 @@ export default defineEventHandler(() => {
             tags: [
                 {
                     title: 'Документы проверены',
-                    icon_src: 'icons/verified.svg',
+                    icon_src: '/icons/verified.svg',
                 },
                 {
                     title: '4.3',
-                    icon_src: 'icons/star.svg',
+                    icon_src: '/icons/star.svg',
                     link: '#',
                 },
                 {
@@ -72,7 +72,7 @@ export default defineEventHandler(() => {
                 },
             ],
             description: 'Помог справиться с потерей и организовать похороны для 126 семей ну и еще чуть описания, чтобы дойти до конца строки и текст будет отсекаться',
-            image_src: 'images/12.png',
+            image_src: '/images/12.png',
         },
         {
             id: 305,
@@ -80,7 +80,7 @@ export default defineEventHandler(() => {
             tags: [
                 {
                     title: '4.3',
-                    icon_src: 'icons/star.svg',
+                    icon_src: '/icons/star.svg',
                     link: '#',
                 },
                 {
@@ -89,7 +89,7 @@ export default defineEventHandler(() => {
                 },
             ],
             description: 'Помог справиться с потерей и организовать похороны для 126 семей ну и еще чуть описания, чтобы дойти до конца строки и текст будет отсекаться',
-            image_src: 'images/13.png',
+            image_src: '/images/13.png',
         },
         {
             id: 306,
@@ -97,11 +97,11 @@ export default defineEventHandler(() => {
             tags: [
                 {
                     title: 'Документы проверены',
-                    icon_src: 'icons/verified.svg',
+                    icon_src: '/icons/verified.svg',
                 },
                 {
                     title: '4.3',
-                    icon_src: 'icons/star.svg',
+                    icon_src: '/icons/star.svg',
                     link: '#',
                 },
                 {
@@ -110,7 +110,7 @@ export default defineEventHandler(() => {
                 },
             ],
             description: 'Помог справиться с потерей и организовать похороны для 126 семей ну и еще чуть описания, чтобы дойти до конца строки и текст будет отсекаться',
-            image_src: 'images/14.png',
+            image_src: '/images/14.png',
         },
     ]
 })

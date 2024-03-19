@@ -9,11 +9,11 @@ export default defineEventHandler(() => {
         tags: [
             {
                 title: 'Документы проверены',
-                icon_src: 'icons/verified.svg',
+                icon_src: '/icons/verified.svg',
             },
             {
                 title: '4.7',
-                icon_src: 'icons/star.svg',
+                icon_src: '/icons/star.svg',
                 link: '#',
             },
             {
